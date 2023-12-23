@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #000;
+}
+
+p {
+  margin: auto;
+  width: 375px;
+  height: 667px;
+  letter-spacing: -0.05em;
+  line-height: 0.8em;
+  font-size: 6px;
+  text-align: justify;
+  background: url(Ali50.png);
+  -webkit-background-size: cover;
+  background-size: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
